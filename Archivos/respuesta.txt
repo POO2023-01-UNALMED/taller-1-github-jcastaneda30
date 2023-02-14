@@ -1,1 +1,1 @@
-No hubo ningun problema a la hora de realizar el commit
+Porque la carpeta no esta vacia
