@@ -1,1 +1,3 @@
 Jaider, 20, aprender sobre que trata la programacion orientado a objetos
+Debido a que la carpeta no esta vacia
+Para evitar conflictos en los proyectos
